@@ -1,5 +1,5 @@
 # Task 4: Layer-wise Learning Rate Implementation
-### Layer-Wise Learning Rates: Summary
+### Layer-Wise Learning Rates
 
 Layer-wise learning rates is an advanced technique where different layers of a neural network, such as a transformer-based model, are assigned different learning rates. This is especially useful for models with a pre-trained backbone (e.g., MiniLM, BERT) and task-specific heads.
 
