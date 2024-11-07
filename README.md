@@ -53,8 +53,9 @@ cd /app/Task1
 python sentence_transformer_model.py
 ```
 Run the Task2: Multi-Task Learning Expansion
-cd /app/Task2
+
 ```
+cd /app/Task2
 python multi_task_model.py
 ```
 - The current docker image size is 869 MB. Could have optimized it but avoiding due to time contraint.
