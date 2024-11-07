@@ -33,7 +33,7 @@ Consider a scenario where transfer learning can be beneficial. Explain how you w
 
 - I have utilized conda environment with python3.9
 - Both python as well as Jupyter file is provided wherever found suited
-- For Task4, the train.py file is not usable as I am not aware of need for training the model as it is not mentioned. I have just tried to provide a generalized code but in it pre-processing of dataset is not considered.
+- For Task4, the train.py file is not usable as I am not aware of need for training the model as it is not mentioned and time limit assigned. I have just tried to provide a generalized code but in it pre-processing of dataset is not considered.
 - Running the code
 Buid docker image using
 ```
